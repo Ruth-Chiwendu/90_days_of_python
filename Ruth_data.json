@@ -1,0 +1,9 @@
+
+	{
+  "name": "Ruth",
+  "age": 21,
+  "sex": "Female",
+  "city": "PH city",
+  "course": ["Cybersecurity", "Product design", "Frontend Dev"]
+
+}
